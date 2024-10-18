@@ -2,11 +2,19 @@
 <BorlandProject>
 	<Transactions>
     <Transaction>2024/07/08 11:03:12.000.911,=C:\Users\desenv\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
-    <Transaction>2024/10/17 07:51:16.820,=C:\Users\desenv\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
-    <Transaction>2024/10/17 07:52:24.694,D:\Arthur\Dicas_truque_e_magias(Delphi)\view\Unit1.dfm=C:\Users\desenv\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
-    <Transaction>2024/10/17 07:52:24.694,D:\Arthur\Dicas_truque_e_magias(Delphi)\view\Unit1.pas=C:\Users\desenv\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
-    <Transaction>2024/10/17 07:52:37.532,D:\Arthur\Dicas_truque_e_magias(Delphi)\Project.dproj=C:\Users\desenv\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
-    <Transaction>2024/10/17 07:53:21.811,=D:\Arthur\Dicas_truque_e_magias(Delphi)\Unit2.pas</Transaction>
-    <Transaction>2024/10/17 07:53:45.424,D:\Arthur\Dicas_truque_e_magias(Delphi)\unit\unitUsers.pass.pas=D:\Arthur\Dicas_truque_e_magias(Delphi)\Unit2.pas</Transaction>
+    <Transaction>2024/10/17 07:51:16.000.820,=C:\Users\desenv\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/10/17 07:52:24.000.694,D:\Arthur\Dicas_truque_e_magias(Delphi)\view\Unit1.dfm=C:\Users\desenv\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2024/10/17 07:52:24.000.694,D:\Arthur\Dicas_truque_e_magias(Delphi)\view\Unit1.pas=C:\Users\desenv\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/10/17 07:52:37.000.532,D:\Arthur\Dicas_truque_e_magias(Delphi)\Project.dproj=C:\Users\desenv\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2024/10/17 07:53:21.000.811,=D:\Arthur\Dicas_truque_e_magias(Delphi)\Unit2.pas</Transaction>
+    <Transaction>2024/10/17 07:53:45.000.424,D:\Arthur\Dicas_truque_e_magias(Delphi)\unit\unitUsers.pass.pas=D:\Arthur\Dicas_truque_e_magias(Delphi)\Unit2.pas</Transaction>
+    <Transaction>2024/10/18 18:51:08.919,=C:\Users\José Arthur\Documents\Dev\delphi_course_dtm\Unit2.pas</Transaction>
+    <Transaction>2024/10/18 18:51:25.390,C:\Users\José Arthur\Documents\Dev\delphi_course_dtm\view\untAula1.pas=C:\Users\José Arthur\Documents\Dev\delphi_course_dtm\Unit2.pas</Transaction>
+    <Transaction>2024/10/18 18:51:25.390,C:\Users\José Arthur\Documents\Dev\delphi_course_dtm\view\untAula1.dfm=C:\Users\José Arthur\Documents\Dev\delphi_course_dtm\Unit2.dfm</Transaction>
+    <Transaction>2024/10/18 18:55:37.841,=C:\Users\José Arthur\Documents\Dev\delphi_course_dtm\Unit2.pas</Transaction>
+    <Transaction>2024/10/18 18:55:45.020,C:\Users\José Arthur\Documents\Dev\delphi_course_dtm\view\untAula2.dfm=C:\Users\José Arthur\Documents\Dev\delphi_course_dtm\Unit2.dfm</Transaction>
+    <Transaction>2024/10/18 18:55:45.020,C:\Users\José Arthur\Documents\Dev\delphi_course_dtm\view\untAula2.pas=C:\Users\José Arthur\Documents\Dev\delphi_course_dtm\Unit2.pas</Transaction>
+    <Transaction>2024/10/18 19:01:01.072,=C:\Users\José Arthur\Documents\Dev\delphi_course_dtm\Unit2.pas</Transaction>
+    <Transaction>2024/10/18 19:01:41.409,C:\Users\José Arthur\Documents\Dev\delphi_course_dtm\unit\unitPessoa.pas=C:\Users\José Arthur\Documents\Dev\delphi_course_dtm\Unit2.pas</Transaction>
   </Transactions>
 </BorlandProject>

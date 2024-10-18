@@ -1,0 +1,14 @@
+unit unitPessoa;
+
+interface
+
+type
+  TPessoa = class
+    public
+      id: Integer;
+      nome: string;
+  end;
+
+implementation
+
+end.
